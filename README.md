@@ -32,18 +32,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
 ##  Projects I'm Proud Of
 
- 
-🔹 Example:
-- [Project Name](https://github.com/your‑profile/project‑name) — Short description  
-- [Project Name](https://github.com/your‑profile/another) — Short description
 
-*(Let me know if you want this section fully filled with your real projects!)*
 
 ---
 
